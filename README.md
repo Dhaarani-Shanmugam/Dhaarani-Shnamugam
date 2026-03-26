@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Dhaarani 👋
 
-<!--
-**Dhaarani-Shanmugam/Dhaarani-Shanmugam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer  
+📚 Learning Full Stack Development  
+👩‍🏫 Assistant Professor in Erode Sengunthar Engineering College
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- Quiz App  
+- To-Do List  
+- Number Guessing Game  
+
+---
+
+## 🛠 Skills
+
+- Python  
+- C, C++  
+- HTML, CSS, JavaScript  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/Dhaarani-Shanmugam
